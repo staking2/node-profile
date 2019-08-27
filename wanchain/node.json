@@ -1,0 +1,27 @@
+{
+    "list":[
+        {
+            "alias":"BEPAL",
+            "alias_en":"BEPAL",
+            "logo":"0x69E77Fe9A00768f5560e5e5e928aab5a7F72Ebbe.png",
+            "address":"0x69e77fe9a00768f5560e5e5e928aab5a7f72ebbe",
+            "website":"http://bepal.pro",
+            "email":"service@bepal.pro",
+            "statement":"BEPAL分别作为BTM、EOS、GXC生态节点，我们在维护节点生态上有着更多优势。齐全的产品线及服务项目为我们带来更多优质用户。我们十分认同POB共识机制，将致力于支持和发展IOST生态，用丰富的用户群体、卓越的技术支持、领先的市场占有率、知名的品牌影响力为IOST生态服务。助力IOST主网上线，共同维护IOST生态！请为BEPAL投出宝贵的一票！",
+            "statement_en":"BEPAL is already a BP for BTM，EOS and GXC due to our BP advantages. BEPAL attracts numbers of customers with good products and services. We agree to consensus mechanism. We are going to support and develop IOST ecosystem with our outstanding technology and well-known brand. Support IOST mainnet and ecosystem.Please vote for us.",
+            "description":"BEPAL（币派）是一家提供数字资产管理服务的公司，在区块链安全及数字资产安全管理方面有着丰富经验，现已成功推出BEPAL Wallet个人数字资产钱包、BEPAL Pro、Q、Card系列安全硬件、BEPAL Enterprise企业数字资产管理平台等产品。其中，Bepal Pro S硬件钱包斩获“中国最佳硬件钱包”、“区块链最受关注安全 硬件”等多个奖项。未来，BEPAL将继续致力于推动数字资产管理服务生态。",
+            "description_en":"BEPAL is a technology-driven Blockchain company. The core of BEPAL is Blockchain private key security management technology. BEPAL provides Blockchain asset management products, platform and industry application solutions. BEPAL has officially launched BEPAL PRO, BEPAL Q, BEPAL Touch etc. Hardware wallets, BEPAL Plus digital asset custody platform. BEPAL helped users to manage their over billion digital assets securely. BEPAL PRO S has won The Best Hardware Wallet in China; The Most Popular Hardware Wallet etc.BEPAL committed to promoting the digital asset management ecology.",
+            "location":{
+                "city":"WenZhou",
+                "country":"China",
+                "longitude":120.71273,
+                "latitude":27.99286
+            },
+            "social_media":{
+                "twitter":"https://twitter.com/bepal",
+                "github":"https://github.com/bepal",
+                "weibo":"https://weibo.com/ibepal"
+            }
+        }
+    ]
+}
